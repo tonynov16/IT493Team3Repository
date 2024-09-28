@@ -10,7 +10,7 @@ by functionality of the tool.
 
 - | Google Docs             | Google                  | Google Docs is used to create and edit documents on the cloud with other team members on the project. 
 
-- | Use Again?              | Yes our team would use again. Microsoft Word and Google Docs gave us the ability to create/edit documents. 
+- | Use Again?              | Yes, our team would use again. Microsoft Word and Google Docs gave us the ability to create/edit documents. 
 
 
 
@@ -21,7 +21,7 @@ by functionality of the tool.
 
 - | Google Slides            | Google                  | Google Slides is used to create and edit powerpoints on the cloud with other team members on the project. 
 
-- | Use Again?              | Yes our team would use again. Microsoft Powerpoint and Google Slides allowed our team to create/edit powerpoints. 
+- | Use Again?              | Yes, our team would use it again. Microsoft Powerpoint and Google Slides allowed our team to create/edit presentations. 
 
 ## 3. Track Project and Team Performance
 **| Software Name            | Vendor/Company          | Relevant Assignments/Deliverables that was used to create or complete |**
@@ -33,9 +33,9 @@ by functionality of the tool.
 ## 4. Facilitate Communication 
 **| Software Name            | Vendor/Company          | Relevant Assignments/Deliverables that was used to create or complete |**
 
-- | Discord                    | Discord Inc. 		   | Discord has been where we list assignments and keep organized our roles on what each team members need to do. 
+- | Discord                    | Discord Inc. 		   | Discord is where we list assignments and organize our roles for what each team member needs to do. 
 
-- | iMessage                   | Apple Inc. 			   | iMessage is our main source of communcation. We will set plans and organize potential group meetings. 
+- | iMessage                   | Apple Inc. 			   | iMessage is our main source of communcation. We set plans and organize potential group meetings. 
 
 - | Use Again?              | 
 

@@ -10,7 +10,7 @@ by functionality of the tool.
 
 | Google Docs             | Google                  | Google Docs is used to create and edit documents on the cloud with other team members on the project. 
 
-| Use Again?              | 
+| Use Again?              | Yes our team would use again. Microsoft Word and Google Docs gave us the ability to create/edit documents. 
 
 
 
@@ -21,7 +21,7 @@ by functionality of the tool.
 
 | Google Slides            | Google                  | Google Slides is used to create and edit powerpoints on the cloud with other team members on the project. 
 
-| Use Again?              | 
+| Use Again?              | Yes our team would use again. Microsoft Powerpoint and Google Slides allowed our team to create/edit powerpoints. 
 
 ## 3. Track Project and Team Performance
 **| Software Name            | Vendor/Company          | Relevant Assignments/Deliverables that was used to create or complete |**
@@ -42,6 +42,14 @@ by functionality of the tool.
 ## 5. Coordinate project activities
 
 **| Software Name            | Vendor/Company          | Relevant Assignments/Deliverables that was used to create or complete |**
+
+
+
+# Additional Software Tools you think you may use or plan to use for the rest of your project
+
+Microsoft Teams 
+Microsoft Projects 
+
 
 
 

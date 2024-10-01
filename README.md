@@ -37,18 +37,24 @@ by functionality of the tool.
 
 - | iMessage                   | Apple Inc. 			   | iMessage is our main source of communcation. We set plans and organize potential group meetings. 
 
-- | Use Again?              | 
+- | Use Again?              | Yes, our team would use it again. Discord helps the team understand responsibilities clearly and iMessage is efficient for quick communication and keeping everyone on the same page for meetings and updates.
 
 ## 5. Coordinate project activities
 
 **| Software Name            | Vendor/Company          | Relevant Assignments/Deliverables that was used to create or complete |**
 
+-	| OneDrive                 | Microsoft               | OneDrive is where we submit assignments, excel sheets, and project plans for all team members to view.
+-	| Microsoft Excel          | Microsoft               | Microsoft Excel is used to document project planning, communication planning, note taking, and RACI charts for teams to use.
+-	| Trello                   | Trello                  | Trello is used for a kanban style workflow
+-	| ClickUp                  | ClickUpTM               | ClickUp is used for our high-level task project management
+-	| Use Again?               | We would use OneDrive, Microsoft Excel, and ClickUp again. These three softwares help the team understand project timeline and roles. However, we would not use Trello again because OneDrive, Microsoft Excel, and ClickUp surpasses Trello in functionality.
 
 
 # Additional Software Tools you think you may use or plan to use for the rest of your project
 
-- Microsoft Teams 
-- Microsoft Projects 
+-	| Microsoft Team | Microsoft | Useful for team and sponsor communication
+-	| Microsoft Project | Microsoft | Useful for project management
+
 
 
 

@@ -26,16 +26,16 @@ by functionality of the tool.
 ## 3. Track Project and Team Performance
 **| Software Name            | Vendor/Company          | Relevant Assignments/Deliverables that was used to create or complete |**
 
-- | Microsoft Excel            | Microsoft               | Microsoft Excel is used to keep track of timesheets for team members to log their hours. 
+- | Microsoft Excel          | Microsoft               | Microsoft Excel is used to keep track of timesheets for team members to log their hours. 
 
-- | Use Again?              | 
+-	| Use Again?               | Yes, our team would use it again. Microsoft Excel allowed our team to keep track of project and team performance.
 
 ## 4. Facilitate Communication 
 **| Software Name            | Vendor/Company          | Relevant Assignments/Deliverables that was used to create or complete |**
 
-- | Discord                    | Discord Inc. 		   | Discord is where we list assignments and organize our roles for what each team member needs to do. 
+- | Discord                  | Discord Inc. 		       | Discord is where we list assignments and organize our roles for what each team member needs to do. 
 
-- | iMessage                   | Apple Inc. 			   | iMessage is our main source of communcation. We set plans and organize potential group meetings. 
+- | iMessage                 | Apple Inc. 			       | iMessage is our main source of communcation. We set plans and organize potential group meetings. 
 
 - | Use Again?              | Yes, our team would use it again. Discord helps the team understand responsibilities clearly and iMessage is efficient for quick communication and keeping everyone on the same page for meetings and updates.
 

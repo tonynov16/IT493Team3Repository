@@ -45,9 +45,7 @@ by functionality of the tool.
 
 -	| OneDrive                 | Microsoft               | OneDrive is where we submit assignments, excel sheets, and project plans for all team members to view.
 -	| Microsoft Excel          | Microsoft               | Microsoft Excel is used to document project planning, communication planning, note taking, and RACI charts for teams to use.
--	| Trello                   | Trello                  | Trello is used for a kanban style workflow
--	| ClickUp                  | ClickUpTM               | ClickUp is used for our high-level task project management
--	| Use Again?               | We would use OneDrive, Microsoft Excel, and ClickUp again. These three softwares help the team understand project timeline and roles. However, we would not use Trello again because OneDrive, Microsoft Excel, and ClickUp surpasses Trello in functionality.
+-	| Use Again?               | We would use OneDrive and Microsoft Excel again. Thesoftwares help the team understand project timeline and roles.
 
 
 # Additional Software Tools you think you may use or plan to use for the rest of your project
